@@ -11,7 +11,7 @@
 			"location": {
 				"type": "AzureBlobStorageLocation",
 				"fileName": "population_by_age.tsv.gz",
-				"container": "Input-rawfile"
+				"container": "Inputrawfile"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
