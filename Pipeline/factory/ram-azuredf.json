@@ -1,0 +1,9 @@
+{
+	"name": "ram-azuredf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a16f0d3c-1b83-430f-a8d7-64bf2f2ba700",
+		"tenantId": "3c538095-52f2-44f5-85cf-1beb1d6ef1dd"
+	}
+}
