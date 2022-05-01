@@ -1,0 +1,7 @@
+{
+	"name": "Selonprimevm",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "self hosting intergration runtimes"
+	}
+}
