@@ -1,0 +1,48 @@
+---
+config:
+  props_to_fetch:
+    - P452 #industry
+    - P112 #founded by
+    - P169 #Chief Executive officer -have to filter on start and end time
+    - P17 #country
+    - P159 #headquarters location(city)
+    - P414 #stock exchange - on which company is traded
+    - P856 #offical website
+    - P1448 #offical name
+    - P488 #chairperson
+    - P3320 #board member
+    - P127 #owned by -filter on properties
+    - P355 #has subsidiary
+    - P1056 #product or material produced
+    - P527 #has part(s)
+    - P1830 #owner of
+  props-name-map:
+    P452: industry
+    P112: founded by
+    P1448: official name
+    P159: headquarters location
+    P169: chief executive officer
+    P17: country
+    P3320: board member
+    P355: has subsidiary
+    P414: stock exchange
+    P488: chairperson
+    P856: official website
+    P127: owned by
+    P1056: product or material produced
+    P527: has part(s)
+    P1830: owner of
+    P27: Country of Citizenship
+    P569: Date if birth
+    P1971: Number of children
+    P108: employer
+
+  corporate_company_props:
+    - P452
+    - P112
+    - P17
+    - P159
+    - P414
+    - P1056
+  companies:
+    - tata group
